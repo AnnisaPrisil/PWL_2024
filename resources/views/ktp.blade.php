@@ -122,7 +122,7 @@
                 <tr><td>Nama</td><td>:</td><td>Annisa Prissilya</td></tr>
                 <tr><td>Tempat/Tgl Lahir</td><td>:</td><td>MALANG, 22-06-2004</td></tr>
                 <tr><td>Jenis Kelamin</td><td>:</td><td>PEREMPUAN</td></tr>
-                <tr><td>Alamat</td><td>:</td><td>CUMI-CUMI </td></tr>
+                <tr><td>Alamat</td><td>:</td><td>MATAHARI </td></tr>
                 <tr><td style="padding-left: 40px;">RT/RW</td><td>:</td><td>222/222</td></tr>
                 <tr><td style="padding-left: 40px;">Kel/Desa</td><td>:</td><td>TUNJUNGSEKAR</td></tr>
                 <tr><td style="padding-left: 40px;">Kecamatan</td><td>:</td><td>LOWOKWARU</td></tr>
