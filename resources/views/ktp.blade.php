@@ -114,7 +114,7 @@
         <div class="label1"><div class="prov">PROVINSI JAWA TIMUR</div></div>
         <div class="label2"><div class="kota">KOTA MALANG</div></div>
         <div class="nik">NIK</div>
-        <div class="nonik">: 0123456789123456</div>
+        <div class="nonik">: 01122448899021</div>
         <div class="gol">Gol. Darah :</div>
         <div class="o">O</div> 
         <table border="0">
@@ -129,7 +129,7 @@
                 <tr><td>Agama</td><td>:</td><td>ISLAM</td></tr>
                 <tr><td>Status Perkawinan</td><td>:</td><td>BELUM KAWIN</td></tr>
                 <tr><td>Pekerjaan</td><td>:</td><td>PELAJAR/MAHASISWA</td></tr>
-                <tr><td>Kewarganegaraan</td><td>:</td><td>WNI</td></tr>
+                <tr><td>Kewarganegaraan</td><td>:</td><td>WNI</td></tr> 
                 <tr><td>Berlaku Hingga</td><td>:</td><td>SEUMUR HIDUP</td></tr>
             </tbody>
         </table>
